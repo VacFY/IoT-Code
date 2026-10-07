@@ -1,0 +1,6 @@
+# Credenciales locales del ESP32
+secrets.h
+# Arduino / PlatformIO
+build/
+.pio/
+.vscode/
