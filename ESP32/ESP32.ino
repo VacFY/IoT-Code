@@ -23,8 +23,8 @@
 #pragma once
 
 // ---- WiFi ----
-#define WIFI_SSID     "--"
-#define WIFI_PASSWORD "--"
+#define WIFI_SSID     "Iphone de Mayck"
+#define WIFI_PASSWORD "12345678"
 
 // ---- Broker MQTT ----
 // Local (Mosquitto en tu laptop): IP de la laptop, puerto 1883, sin TLS.
